@@ -1,4 +1,4 @@
-# proje_1
+# Scraping news of Turkish airlines from Reuters
 
 First i scraped news head about Turkish Airlines from reuters.
 
